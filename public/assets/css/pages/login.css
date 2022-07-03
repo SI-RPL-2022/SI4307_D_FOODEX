@@ -1,0 +1,55 @@
+body {
+  font-weight: 400;
+}
+
+.card-title {
+  color: #FAB690;
+  font-size: 32px;
+  text-align: center;
+}
+
+.nav-login-card {
+  margin: 0 20px;
+}
+
+.nav-login-card a {
+  color: #CBCBCB !important;
+  font-size: 20px;
+}
+
+.nav-login-card .active {
+  color: #FAB690 !important;
+}
+
+.form-control {
+  border-radius: 5px;
+  border: 2px solid #979797;
+}
+
+.text-grey {
+  color: #AEA8A8;
+}
+
+.btn-login {
+  width: 140px;
+  border-radius: 5px;
+  background-color: #FED9C4;
+  border-color: #FED9C4;
+  color: black;
+}
+
+.btn-login:hover {
+  background-color: #FED9C4;
+  border-color: #FED9C4;
+  color: black;
+}
+
+.logo {
+    max-height: 39px;
+    width: auto;
+}
+
+.bg-primary {
+  background-color: #FED9C4 !important;
+}
+/*# sourceMappingURL=login.css.map */
